@@ -14,6 +14,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
 
 
 
