@@ -9,14 +9,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git"  width="20" height="20"/>
 </p>
 <p align="center">
-📫 How to reach me: https://www.linkedin.com/in/isaquezaratustra/
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaquelinkedin" height="20" width="20" /></a>
+</p>
 
 <!--
 **IsaqueZaratustra/IsaqueZaratustra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
