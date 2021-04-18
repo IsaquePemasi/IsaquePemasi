@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
-<h2 align="center">I'm a Front end Developer</h2>
+<h2>I'm a Front end Developer 🚀</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,13 +12,17 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3> Connect with me</h3>
-<p>
+<h3>Connect with me 📱</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
 </p>
 
-<p>
-<a href="" target="blank"><img align="center" src="" alt="isaque" /></a>
+<h3>OS 💻</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
