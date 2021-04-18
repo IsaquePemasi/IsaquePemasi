@@ -11,12 +11,12 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
+<br>
 <h3>Connect with me 📱</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
 </p>
-
+<br>
 <h3>OS 💻</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
