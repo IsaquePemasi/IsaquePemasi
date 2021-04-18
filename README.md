@@ -13,7 +13,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaquelinkedin" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
 </p>
 
 <!--
