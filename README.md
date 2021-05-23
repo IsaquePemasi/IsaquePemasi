@@ -31,4 +31,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=vue-dark&layout=compact" alt="IsaqueZratustraStats" height="200"/>
+     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
