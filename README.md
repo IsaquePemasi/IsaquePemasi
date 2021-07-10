@@ -45,3 +45,6 @@
 </p>
      
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
+<! – https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://devicon.dev/ –>
+
