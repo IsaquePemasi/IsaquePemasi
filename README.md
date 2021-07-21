@@ -22,6 +22,7 @@
 <h2 align="center">📱Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
+<a href="https://discord.gg/vF68mHzX" target="blank"><img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="isaqueDiscord" /></a>
 
 <h2 align="center">OS🌐</h2>
 <p align="center">
