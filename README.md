@@ -36,7 +36,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-     
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+ 
+<h2 align="center">Sound🎶</h2>
+<p align="center">
+<a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+                                                                                                          
 <p align="center">   
 <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 
