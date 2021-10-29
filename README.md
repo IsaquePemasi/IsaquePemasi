@@ -52,4 +52,3 @@
      
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
 <! – https://devicon.dev/ –>
-
