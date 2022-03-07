@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <h2 align="center">📱Connect with me</h2>
 <p align="center">
@@ -41,7 +40,10 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
     
- 
+<h2 align="center">Page Builders</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
 <h2 align="center">Sound🎶</h2>
 <p align="center">
 <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
@@ -55,3 +57,5 @@
      
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
 <! – https://devicon.dev/ –>
+
+     
