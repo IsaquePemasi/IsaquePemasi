@@ -49,4 +49,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" height="500"/>
     </p>
         
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
+
+<p align="center">
+ <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" /></p>
