@@ -46,13 +46,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" height="500"/>
-    </p>
+    <img align="center" width='1000 src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" height="500"/>
+</p>
 
 <p align="center">
- <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" /></p>
+ <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" />
+ </p>
 
-<p align="center"><img width='1000' src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" /></p>
+<p align="center"><img width='1000' src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" />
+</p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
+</p>
