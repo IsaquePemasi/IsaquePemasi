@@ -55,4 +55,4 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
 
-<p align="center"><img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" /></p>
+<p align="center"><img width='1000' src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" /></p>
