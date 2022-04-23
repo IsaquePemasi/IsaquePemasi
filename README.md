@@ -46,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
 
 <p align="center">
-    <img align="center" width='1000 src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" height="500"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" height="250"/>
 </p>
 
 <p align="center">
