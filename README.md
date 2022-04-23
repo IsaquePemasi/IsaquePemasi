@@ -50,7 +50,7 @@
     </p>
 
 <p align="center">
- <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" /></p>
+ <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" /></p>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" /> </p>
