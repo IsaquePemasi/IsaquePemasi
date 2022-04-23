@@ -40,7 +40,7 @@
 
 <h2 align="center">Sounds 🎵</h2>
     <p align="center">
-    <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" heigth='500'/>
+    <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" heigth='1000'/>
                                                                                                             
 <p align="center">   
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque"/> 
