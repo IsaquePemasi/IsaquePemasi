@@ -54,7 +54,7 @@
  <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" />
  </p>
 
-<p align="center"><img width='1000' height='250' src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" />
+<p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra" />
 </p>
 
 <p align="center">
