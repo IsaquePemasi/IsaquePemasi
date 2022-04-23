@@ -11,7 +11,7 @@
 
 <p align="center">
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-        <img src="	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <h2 align="center">Connect with me 📱</h2>
     <p align="center">
     <a href="https://www.linkedin.com/in/isaquezaratustra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
