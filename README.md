@@ -60,7 +60,3 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
 </p>
-
-<p align="center">
- <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" />
- </p>
