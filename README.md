@@ -45,7 +45,7 @@
 <p>   
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats" width='400' height='400'
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true" alt="isaque" width='400' height='400'
+    <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" width='400' height='400'
     /> 
 
 </p>
