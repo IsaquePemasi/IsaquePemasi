@@ -38,10 +38,10 @@
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
                                                                                                             
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueZaratustra&layout=compact" alt="isaque" />
+ <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueZaratustra&layout=compact" alt="isaque" />
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
+    <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
     /> 
 </p>
 
