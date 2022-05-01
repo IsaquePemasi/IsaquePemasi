@@ -55,3 +55,9 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
 </p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueZratustra&layout=compact" alt="isaque" />
+</p>
+
+
