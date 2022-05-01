@@ -37,10 +37,7 @@
     <p align="center">
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
                                                                                                             
-<p>   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueZaratustra&show_icons=true&theme=default" alt="IsaqueZratustraStats"
-    />
-</p>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
     /> 
