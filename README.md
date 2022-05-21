@@ -9,7 +9,7 @@
 
 <h2 align="center">👨‍💻 Frameworks</h2>
     <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <+++img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         
 <p align="center">
 
