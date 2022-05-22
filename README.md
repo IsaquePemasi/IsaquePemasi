@@ -8,7 +8,9 @@
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 <h2 align="center">👨‍💻 Frameworks</h2>
-    <p align="center">       
+    <p align="center">    
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB   
+"/>
 
 <h2 align="center">Connect with me 📱</h2>
     <p align="center">
