@@ -1,9 +1,3 @@
-<p align="center" >
-
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc)width='1000'](https://rishavchanda.io)
-
-</p>
-
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
 <h2 align="center">Systems analyst and Developer 👾</h2>
     <p align="center">
@@ -63,5 +57,9 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
+</p>
+
+<p align="center">
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc"/>
 </p>
 
