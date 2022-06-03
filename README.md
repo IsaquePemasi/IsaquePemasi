@@ -60,6 +60,6 @@
 </p>
 
 
-<img src="https://br.pinterest.com/pin/306104105926274149/"/>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/dZX3AduGrY3uJ7qCsx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx">via GIPHY</a></p>
 
 [![MasterHead](https://www.google.com.br/search?q=+matrix-code-animation-gif-free-animated-backg...&tbm=isch&ved=2ahUKEwjutoCF95H4AhVxM7kGHTkiBRAQ2-cCegQIABAA&oq=+matrix-code-animation-gif-free-animated-backg...&gs_lcp=CgNpbWcQA1D0Blj0BmD9C2gAcAB4AIABmQGIAZcCkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=VlWaYu6zAvHm5OUPucSUgAE&bih=667&biw=1349&hl=pt-BR#imgrc=u_HTy9r2hMc3CM)](https://rishavchanda.io)
