@@ -59,3 +59,6 @@
  <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
 </p>
 
+
+<img src="https://us-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F16%2F02%2Fb2%2F1602b26c05ee78120695d592a68b8912.gif&sp=1654281257T1853c3e06508da270d448c53a97865520591b5a4614145e90cb398856764610a"/>
+
