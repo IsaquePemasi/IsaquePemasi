@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
-<h2 align="center">Systems analyst and Developer 👾</h2>
+<h2 align="center">Systems analyst 👾</h2>
     <p align="center">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
