@@ -1,5 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/IsaqueZaratustra/IsaqueMarques/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
 <h2 align="center">Systems analyst 👾</h2>
     <p align="center">
