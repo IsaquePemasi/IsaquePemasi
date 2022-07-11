@@ -1,4 +1,5 @@
-![](https://github.com/IsaqueMarques/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/IsaqueZaratustra/snk/raw/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
 <h2 align="center">Systems analyst 👾</h2>
     <p align="center">
