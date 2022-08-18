@@ -56,6 +56,3 @@
 
 
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=IsaquePemasi" alt="isaque" />
-</p>
