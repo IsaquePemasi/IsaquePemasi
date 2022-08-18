@@ -43,19 +43,19 @@
  <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
 </p>
 <p>
-    <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaqueZaratustra&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
+    <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
     /> 
 </p>
 
 <p align="center">
- <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueZaratustra&theme=vue" />
+ <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaquePemasi&theme=vue" />
  </p>
 
-<p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueZaratustra&theme=tokyonight"/>
+<p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight"/>
 </p>
 
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=IsaqueZaratustra" alt="isaque" />
+ <img src="https://komarev.com/ghpvc/?username=IsaquePemasi" alt="isaque" />
 </p>
