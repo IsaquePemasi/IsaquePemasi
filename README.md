@@ -12,13 +12,18 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
+<h2 align="center">Cloud ☁</h2> 
+    <p align="center">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 <h2 align="center">⌨ Page Builders</h2>
     <p align="center">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-<h2 align="center">Cloud 🧠</h2> 
+<h2 align="center">IDE & Code editor 🧠</h2> 
     <p align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 
 <h2 align="center">🌐 OS</h2>
     <p align="center">
@@ -28,18 +33,13 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-
-<h2 align="center">IDE & Code editor 🧠</h2> 
-    <p align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-        
-<h2 align="center">Connect with me 📱</h2>
+     
+<h2 align="center">Connect with me 👥</h2>
     <p align="center">    
     <a href="https://www.linkedin.com/in/isaquepemasi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
     <a href="https://discord.gg/N75xwBBwh6" target="blank"><img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="isaqueDiscord" /></a>
 
-<h2 align="center">Sounds 🎵</h2>
+<h2 align="center">🎵 Sounds </h2>
     <p align="center">
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
                                                                                                             
