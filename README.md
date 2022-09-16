@@ -35,6 +35,10 @@
     <p align="center">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
+<h2 align="center">Cloud 🧠</h2> 
+    <p align="center">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 <h2 align="center">Sounds 🎵</h2>
     <p align="center">
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -53,10 +57,3 @@
 
 <p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight"/>
 </p>
-
-<h2 align="center">Cloud 🧠</h2> 
-    <p align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-
