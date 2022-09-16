@@ -54,5 +54,9 @@
 <p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight"/>
 </p>
 
+<h2 align="center">Cloud 🧠</h2> 
+    <p align="center">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 
 
