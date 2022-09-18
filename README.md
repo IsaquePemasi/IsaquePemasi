@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
-<h2 align="center">Systems analyst 👾</h2>
+<h2 align="center">Systems analyst 🤖</h2>
 <table>
   <tr>
-<td align="center"> <h2 >Languages 👾</h2> </td>
-<td align="center"> <h2>👨‍💻 Library & Frameworks</h2> </td>
+<td align="center"> <h2 >Languages 👨‍💻 </h2> </td>
+<td align="center"> <h2>👾 Library & Frameworks</h2> </td>
   </tr>
   <tr>
     <td>
@@ -98,3 +98,16 @@
 
 <p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight"/>
 </p>
+
+<table>
+<tr>
+<td> <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
+</td>    
+<td> <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" />
+</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table>
