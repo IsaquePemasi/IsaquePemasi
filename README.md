@@ -101,13 +101,15 @@
 
 <table>
 <tr>
-<td> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
+<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
 </td>    
 <td> <img src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" />
 </td>
 </tr>
 <tr>
-<td>
+<td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaquePemasi&theme=vue" />
+</td>    
+<td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight" alt="isaque" />
 </td>
 </tr>
 </table>
