@@ -156,3 +156,18 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+ <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
+</p>
+<p>
+    <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" 
+    /> 
+</p>
+
+<p align="center">
+ <img width='1000' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaquePemasi&theme=vue" />
+ </p>
+
+<p align="center"><img width='1000'  src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight"/>
+</p>
