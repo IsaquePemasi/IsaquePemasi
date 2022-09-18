@@ -72,10 +72,11 @@
 </p>
 
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
+<h2 align="center">Systems analyst 👾</h2>
 <table>
   <tr>
-<td align="center"> <h2 >Systems analyst 👾</h2> </td>
+<td align="center"> <h2 >Languages 👾</h2> </td>
 <td align="center"> <h2>👨‍💻 Library & Frameworks</h2> </td>
   </tr>
   <tr>
