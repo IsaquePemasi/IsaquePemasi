@@ -46,7 +46,12 @@
 <h2 align="center">⚡ Database </h2>
     <p align="center">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-                                                                                                            
+
+<h2 align="center">💻 Terminal </h2>
+    <p align="center">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
 <p align="center">
  <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
 </p>
