@@ -101,9 +101,9 @@
 
 <table>
 <tr>
-<td> <img width='1000' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
+<td> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact" alt="isaque" />
 </td>    
-<td> <img width='1000' src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" />
+<td> <img src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" />
 </td>
 </tr>
 <tr>
