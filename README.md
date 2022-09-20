@@ -81,7 +81,7 @@
     </td>
   </tr>
   <tr>
-<td align="center"> <h2 >Sounds 🎵</h2> </td>
+<td > <h2 >Sounds 🎵</h2> </td>
   </tr>
   <tr>
     <td>
