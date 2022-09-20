@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
 <h2 align="center">Systems analyst 🤖</h2>
+
 <table>
   <tr>
 <td align="center"> <h2 >Languages 👨‍💻 </h2> </td>
@@ -18,6 +19,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    
     </td>
   </tr>
+
   <tr>
 <td align="center"> <h2 >Database ⚡</h2> </td>
 <td align="center"> <h2>☁ Cloud </h2> </td>
@@ -30,6 +32,7 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
     </td>
   </tr>
+
   <tr>
 <td align="center"> <h2 >Page Builders ⌨</h2> </td>
 <td align="center"> <h2>📟 Terminal </h2> </td>
@@ -42,10 +45,9 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
-
-  </td>
-    
+  </td>   
   </tr>
+  
   <tr>
 <td align="center"> <h2 >IDE & Code editor 🧠</h2> </td>
 <td align="center"> <h2>🌐 OS</h2> </td>
@@ -67,6 +69,7 @@
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
     </td>
   </tr>
+
   <tr>
 <td align="center"> <h2 >Virtualization 💻</h2> </td>
 <td align="center"> <h2>Sounds 🎵</h2> </td>
@@ -77,13 +80,6 @@
     </td>
     <td>
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </tr>
-  <tr>
-<td> <h2 align="center"></h2> </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
   </tr>
 </table>
 
