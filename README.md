@@ -80,8 +80,8 @@
     <a href="https://discord.gg/N75xwBBwh6" target="blank"><img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="isaqueDiscord" /></a>
     </td>
   </tr>
-  <tr><td>
-<td> <h2 align="center">Sounds 🎵</h2> </td></td>
+  <tr>
+<td> <h2 align="center">Sounds 🎵</h2> </td>
   </tr>
   <tr>
     <td>
