@@ -69,23 +69,20 @@
   </tr>
   <tr>
 <td align="center"> <h2 >Virtualization 💻</h2> </td>
-<td align="center"> <h2>👥 Connect with me</h2> </td>
+<td align="center"> <h2>Sounds 🎵</h2> </td>
   </tr>
   <tr>
     <td>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
     </td>
     <td>
-    <a href="https://www.linkedin.com/in/isaquepemasi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
-    <a href="https://discord.gg/N75xwBBwh6" target="blank"><img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="isaqueDiscord" /></a>
-    </td>
+    <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </tr>
   <tr>
-<td> <h2 align="center">Sounds 🎵</h2> </td>
+<td> <h2 align="center"></h2> </td>
   </tr>
   <tr>
     <td>
-    <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
     </td>
   </tr>
 </table>
