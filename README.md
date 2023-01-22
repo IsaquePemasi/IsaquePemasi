@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
-<h2 align="center"><a href="https://isaquepemasi.vercel.app/">🎯 Portfolio 🤖</a></h2> 		
+<h2 align="center"><a href="https://isaquepemasi.vercel.app/" target="_blank">🎯 Portfolio 🤖</a></h2> 		
 
 
 <table>
