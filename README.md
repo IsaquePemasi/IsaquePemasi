@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+My+name+is+Isaque;I+am+from+Brazil;I+am+a+developer;Majoring+in+systems+analysis+and+development;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isaque;I+am+from+Brazil;I+am+a+developer;Majoring+in+systems+analysis+and+development;:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaque</h1>
 <h2 align="center"><a href="https://isaquepemasi.vercel.app/" target="_blank">🎯 Portfolio 🤖</a></h2> 		
 
 <table>
