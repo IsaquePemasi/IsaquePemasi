@@ -106,7 +106,7 @@
 <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaquePemasi&theme=tokyonight" alt="isaque" />
 </td>    
 <td> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaquePemasi&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaquePemasi&theme=radical" />
 </td>
 </tr>
 </table>
