@@ -1,13 +1,27 @@
-<!-- ```csharp
+ ```csharp
+public static string Languages()
+{
+    string[] languages = { "C#", "C++", "Javascript", "Python" };
+    return string.Join(", ", languages);
+}
+public static string Databases()
+{
+    return "MySQL";
+}
+public static string Frameworks()
+{
+    return ".NET";
+}
 
-``` -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isaque;I+live+in+Brazil;I+am+a+systems+analyst;with+knowledge+in+web/software+development,;computer+networks+and+cybersecurity;:%29)](https://git.io/typing-svg)
+``` 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isaque;I+live+in+Brazil;I+am+a+systems+analyst;with+knowledge+in+web/software+development,;computer+networks+and+cybersecurity;:%29)](https://git.io/typing-svg) -->
 
 <h2 align="center"><a href="https://isaquepemasi.vercel.app/" target="_blank">🎯 Portfolio 🤖</a></h2> 		
 
-<table>
+<!-- <table>
   <tr>
 <td align="center"> <h2 >Languages 👨‍💻 </h2> </td>
 <td align="center"> <h2>👾 Library & Frameworks</h2> </td>
@@ -91,7 +105,7 @@
     <td>
     <a href="https://open.spotify.com/playlist/3cUTrHqi1439w3FZUbGToK" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </tr>
-</table>
+</table> -->
 
 <h2 align="center">👥 Connect with me</h2>
 <p align="center">
@@ -117,4 +131,4 @@
 </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=footer"/> -->
