@@ -1,12 +1,3 @@
-class Attributes(Tekky):
-	@staticmethod
-	def contact() -> tuple:
-	    discord  = "tekky#1810"
-	    telegram = "t.me/xtekky"
-	    proton   = "github@g4f.ai"
-	    
-	    return discord, telegram, proton
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isaque;I+live+in+Brazil;I+am+a+systems+analyst;with+knowledge+in+web/software+development,;computer+networks+and+cybersecurity;:%29)](https://git.io/typing-svg)
