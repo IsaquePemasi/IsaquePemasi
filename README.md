@@ -15,7 +15,6 @@ public static string Frameworks()
     return ".NET";
 }
 
-
 ``` 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
