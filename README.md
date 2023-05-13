@@ -1,20 +1,24 @@
  <h2 align="center"><a href="https://isaquepemasi.vercel.app/" target="_blank">🎯 Portfolio 🤖</a></h2> 		
 
  ```csharp
-public static string Languages()
-{
+namespace information_about_me {
+internal class I {
+  public string name = "Isaque";
+  public int age = 23;
+  public string graduation = "Systems Analyst"
+
+  public static string Languages() {
     string[] languages = { "C#", "C++", "Javascript", "Python" };
     return string.Join(", ", languages);
 }
-public static string Databases()
-{
+public static string Databases() {
     return "MySQL";
 }
-public static string Frameworks()
-{
+public static string Frameworks() {
     return ".NET";
+    }
+  }
 }
-
 ``` 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
