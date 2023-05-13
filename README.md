@@ -2,20 +2,20 @@
 
  ```csharp
 namespace information_about_me {
-internal class I {
-  public string name = "Isaque";
-  public int age = 23;
-  public string graduation = "Systems Analyst"
+  internal class I {
+    public string name = "Isaque";
+    public int age = 23;
+    public string graduation = "Systems Analyst"
 
-  public static string Languages() {
-    string[] languages = { "C#", "C++", "Javascript", "Python" };
-    return string.Join(", ", languages);
+    public static string Languages() {
+      string[] languages = { "C#", "C++", "Javascript", "Python" };
+      return string.Join(", ", languages);
 }
-public static string Databases() {
-    return "MySQL";
+    public static string Databases() {
+        return "MySQL";
 }
-public static string Frameworks() {
-    return ".NET";
+    public static string Frameworks() {
+        return ".NET";
     }
   }
 }
