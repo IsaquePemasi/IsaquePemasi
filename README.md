@@ -2,7 +2,7 @@
 
  ```csharp
 namespace information_about_me {
-  internal class I {
+  public class I {
     public string name = "Isaque";
     public int age = 23;
     public string graduation = "Systems Analyst"
