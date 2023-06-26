@@ -6,20 +6,20 @@ namespace information_about_me {
     public string name = "Isaque";
     public int age = 23;
     public string graduation = "Systems Analyst"
-
+    }
     public static string Languages() {
       string[] languages = { "C#", "C++", "Javascript", "Python" };
       return string.Join(", ", languages);
-}
+    }
     public static string Databases() {
         return "MySQL";
-}
+    }
     public static string Frameworks() {
       string[] frameworks = { ".NET", "Bootstrap" };
       return string.Join(", ", frameworks);
+    }
 }
-  }
-}
+
 ``` 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=header&text=Isaque+Pemasi&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
