@@ -8,7 +8,7 @@ namespace information_about_me {
     public string graduation = "Systems Analyst"
     }
     public static string Languages() {
-      string[] languages = { "C#", "C++", "Javascript", "Python" };
+      string[] languages = { "C#", "C++", "Javascript"};
       return string.Join(", ", languages);
     }
     public static string Databases() {
