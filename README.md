@@ -33,7 +33,7 @@ namespace information_about_me {
 <tr>
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact&langs_count=100&theme=tokyonight" alt="isaque" />
 </td>    
-<td> <img src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="isaque" />
+<td> <img src="https://github-readme-stats.vercel.app/api?username=IsaquePemasi&show_icons=true&theme=tokyonight" alt="isaque" />
 </td>
 </tr>
 <tr>
