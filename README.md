@@ -19,12 +19,12 @@ namespace information_about_me {
       return string.Join(", ", frameworks);
     }
 }
-
 ``` 
+
 <h2 align="center">👥 Connect with me</h2>
 <p align="center">
    <a  href="https://www.linkedin.com/in/isaquepemasi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
-      <a  href="mailto:ADSisaque@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="isaqueGmail" /></a>
+    <a  href="mailto:ADSisaque@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="isaqueGmail" /></a>
     <a href="https://api.whatsapp.com/send?phone=+5511987886593&text=Oi%20Isaque" target="blank"><img align="center" src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt="isaqueWhatsApp" /></a>
 </p>
 
