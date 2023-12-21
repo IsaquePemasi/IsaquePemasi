@@ -21,16 +21,13 @@ namespace information_about_me {
 }
 
 ``` 
-
-
 <h2 align="center">👥 Connect with me</h2>
 <p align="center">
    <a  href="https://www.linkedin.com/in/isaquepemasi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isaquelinkedin" /></a>
-    <!-- <a href="https://discord.gg/N75xwBBwh6" target="blank"><img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="isaqueDiscord" /></a> -->
+      <a  href="mailto:ADSisaque@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="isaqueGmail" /></a>
     <a href="https://api.whatsapp.com/send?phone=+5511987886593&text=Oi%20Isaque" target="blank"><img align="center" src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt="isaqueWhatsApp" /></a>
-
 </p>
- 
+
 <table>
 <tr>
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaquePemasi&layout=compact&langs_count=100&theme=tokyonight" alt="isaque" />
@@ -46,5 +43,3 @@ namespace information_about_me {
 </td>
 </tr>
 </table>
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf91f3&height=120&section=footer"/> -->
