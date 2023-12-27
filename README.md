@@ -16,7 +16,7 @@ namespace information_about_me {
         return "MySQL";
     }
     public static string Frameworks() {
-      string[] frameworks = { ".NET", "Blazor", "Bootstrap" };
+      string[] frameworks = {"Blazor", "Bootstrap" };
       return string.Join(", ", frameworks);
     }
 }
