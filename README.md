@@ -9,14 +9,14 @@ namespace information_about_me {
     public string graduation = "Systems Analyst"
     }
     public static string Languages() {
-      string[] languages = { "C#", "C++", "Javascript"};
+      string[] languages = {"C#", "C++", "Javascript"};
       return string.Join(", ", languages);
     }
     public static string Databases() {
         return "MySQL";
     }
     public static string Frameworks() {
-      string[] frameworks = {"Blazor", "Bootstrap" };
+      string[] frameworks = {"Blazor", "Bootstrap"};
       return string.Join(", ", frameworks);
     }
 }
